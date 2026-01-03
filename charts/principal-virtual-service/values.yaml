@@ -1,0 +1,16 @@
+
+name:
+hosts:
+istioNamespace:
+gateways:
+defaultPort:
+expose:
+  - prefix: /
+    exact:
+    uriRewrite: /
+    serviceName: "my-service"
+    overrideSvc: "my-service-real-name"
+    overrideNamespace: "my-real-namespace"
+    port: "0"
+    headers:
+      set:
