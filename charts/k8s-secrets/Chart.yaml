@@ -1,12 +1,12 @@
 apiVersion: v2
-name: k8s-secret
+name: k8s-secrets
 description: Chart to create a secret connected with vault
 type: application
 
 # Esta es la versión DEL CHART (la plantilla en sí)
 # Cada vez que modifiques un .yaml dentro de templates/, debes subir esto (0.1.0 -> 0.1.1)
 #IMPORTANTE: release (0.0.x) number no puede ser mayor a 9
-version: "0.0.7"
+version: "0.0.8"
 
 
 appVersion: "1.0.0"
