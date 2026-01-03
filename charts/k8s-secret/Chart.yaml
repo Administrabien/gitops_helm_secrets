@@ -6,7 +6,7 @@ type: application
 # Esta es la versión DEL CHART (la plantilla en sí)
 # Cada vez que modifiques un .yaml dentro de templates/, debes subir esto (0.1.0 -> 0.1.1)
 #IMPORTANTE: release (0.0.x) number no puede ser mayor a 9
-version: "0.0.5"
+version: "0.0.6"
 
 
 appVersion: "1.0.0"
