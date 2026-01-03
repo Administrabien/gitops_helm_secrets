@@ -19,7 +19,6 @@ keywords:
   - nodejs
   - base
 
-# Opcional: Quién mantiene esto
 maintainers:
   - name: Francisco
     email: fcovillegast@gmail.com
