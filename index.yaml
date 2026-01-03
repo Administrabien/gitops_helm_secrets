@@ -115,4 +115,24 @@ entries:
     urls:
     - https://github.com/Administrabien/gitops_helm_secrets/releases/download/k8s-secret-0.0.2/k8s-secret-0.0.2.tgz
     version: 0.0.2
-generated: "2026-01-03T21:29:57.771465567Z"
+  k8s-secrets:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2026-01-03T21:31:39.108164192Z"
+    description: Chart to create a secret connected with vault
+    digest: 08b592125b218b9024f66cef15f488cd07db1b661e2f16243bcc908bf878a0f1
+    keywords:
+    - k8s-secrets
+    - microservice
+    - java
+    - nodejs
+    - base
+    maintainers:
+    - email: fcovillegast@gmail.com
+      name: Francisco
+    name: k8s-secrets
+    type: application
+    urls:
+    - https://github.com/Administrabien/gitops_helm_secrets/releases/download/k8s-secrets-0.0.8/k8s-secrets-0.0.8.tgz
+    version: 0.0.8
+generated: "2026-01-03T21:31:39.108191411Z"
